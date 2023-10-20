@@ -32,7 +32,11 @@
     height: 600px;
     width: 60%;
     border: 1px solid black;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
 }
+
 
 .column-big{
     width: calc((100% / 3) *2);
