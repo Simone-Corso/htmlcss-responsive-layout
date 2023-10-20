@@ -34,15 +34,15 @@
     border: 1px solid black;
 }
 
-.collumn-big{
-    width: 65%;
-    margin-left: 1.1rem;
+.column-big{
+    width: calc((100% / 3) *2);
     border: 1px solid black;
 }
 
 .column-small{
     height: 50%;
     width: calc(100% / 3);
+    border:  1px solid black;
 }
 
 .strategic-planning{
