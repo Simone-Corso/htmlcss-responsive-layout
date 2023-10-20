@@ -34,6 +34,18 @@
     border: 1px solid black;
 }
 
+.collumn-big{
+    width: 65%;
+    margin-left: 1.1rem;
+    border: 1px solid black;
+}
+
+.column-small{
+    height: 50%;
+    width: calc(100% / 3);
+    border: 1px solid black;
+}
+
 .strategic-planning{
     height: 700px;
     background-color: #9792E4;
