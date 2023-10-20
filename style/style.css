@@ -77,7 +77,12 @@
 .benefits{
     height: 900px;
     background-color: #9792E4;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
 }
+
 
 .column-benefits{
     height: 25%;
@@ -88,7 +93,11 @@
 .About{
     height: 800px;
     background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
+
 
 .about-left{
     height: 600px;
