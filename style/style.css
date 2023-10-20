@@ -43,7 +43,6 @@
 .column-small{
     height: 50%;
     width: calc(100% / 3);
-    border: 1px solid black;
 }
 
 .strategic-planning{
