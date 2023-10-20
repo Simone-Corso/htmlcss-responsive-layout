@@ -46,3 +46,30 @@
     width: 75%;
     border: 1px solid black;
 }
+
+.benefits{
+    height: 900px;
+    background-color: #9792E4;
+}
+
+.column-benefits{
+    height: 25%;
+    width: 25%;
+    border: 1px solid black;
+}
+
+.About{
+    height: 800px;
+    background-color: white;
+}
+
+.about-left{
+    height: 600px;
+    width: 700px;
+    border: 1px solid black;
+}
+.about-right{
+    height: 600px;
+    width: 300px;
+    border: 1px solid black;
+}
