@@ -35,3 +35,14 @@
     background-color: #9792E4;
 }
 
+.testimonials{
+    height: 900px;
+    background-color: white;
+
+}
+
+.column-testimonial{
+    height: 25%;
+    width: 75%;
+    border: 1px solid black;
+}
