@@ -60,13 +60,18 @@
 .testimonials{
     height: 900px;
     background-color: white;
-
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
 .column-testimonial{
     height: 25%;
     width: 75%;
     border: 1px solid black;
+    background-color: #9792E4;
+    border-radius: 2rem;
 }
 
 .benefits{
