@@ -73,3 +73,14 @@
     width: 300px;
     border: 1px solid black;
 }
+
+.get-started{
+    height: 700px;
+    background-color: #9792E4;
+}
+
+.container-started{
+     height: 600px;
+     width: 600px;
+     border: 1px solid black;
+}
