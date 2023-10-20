@@ -113,6 +113,9 @@
 .get-started{
     height: 700px;
     background-color: #9792E4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .container-started{
