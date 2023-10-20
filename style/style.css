@@ -78,14 +78,20 @@
     height: 900px;
     background-color: #9792E4;
     display: flex;
-    flex-wrap: wrap;
-    align-items: center;
     justify-content: center;
+    align-items: center;
+}
+
+.container-benefits{
+    width: 60%;
+    height: 800px;
+    display: flex;
+    flex-wrap: wrap;
 }
 
 .column-benefits{
-    height: 25%;
-    width: 25%;
+    height: 50%;
+    width: calc(100% / 3);
     border: 1px solid black;
 }
 
