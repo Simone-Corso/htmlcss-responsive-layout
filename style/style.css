@@ -9,11 +9,23 @@
     height: 70px;
     background-color: #0084FD;
     display: flex;
+    
 
 }
 
-.container{
+.container-nav{
     width: 70%;
     border: 1px solid black;
     display: flex;
+}
+
+.colonne-quadrate{
+    display: flex;
+    height: 700px;
+}
+
+.container-quadrate{
+    height: 600px;
+    width: 800px;
+    border: 1px solid black;
 }
