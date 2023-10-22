@@ -158,3 +158,10 @@
     width: 450px;
     border: 1px solid black;
 }
+
+@media screen and (max-width: 480px){
+    .container{
+        max-width: 100%;
+    
+    }
+}
