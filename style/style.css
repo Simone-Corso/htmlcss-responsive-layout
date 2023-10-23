@@ -21,6 +21,14 @@
     align-items: center;
 }
 
+.menu-button{
+    height: 70px;
+}
+
+ul,li{
+    list-style-type: none;
+}
+
 .colonne-quadrate{
     display: flex;
     height: 700px;
