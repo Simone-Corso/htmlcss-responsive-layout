@@ -260,6 +260,12 @@
     flex-wrap: nowrap;
 }
 
+.about-left {
+    height: 566px;
+    width: 90%;
+    border: 1px solid black;
+}
+
 
 
 }
