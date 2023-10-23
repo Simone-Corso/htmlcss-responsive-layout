@@ -45,6 +45,10 @@ ul,li{
     flex-wrap: wrap;
 }
 
+img{
+    background-image: cover;
+}
+
 
 .column-big{
     width: calc((100% / 3) *2);
