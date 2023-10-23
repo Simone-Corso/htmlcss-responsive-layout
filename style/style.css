@@ -160,8 +160,17 @@
 }
 
 @media screen and (max-width: 480px){
-    .container{
-        max-width: 100%;
-    
+    .navigation {
+        height: 70px;
+        width: 100%px;
+        background-color: #0084FD;
+
+    }
+
+    .container-quadrate{
+        height: 1000px;
+    }
+    .column-big{
+        height: 100%;
     }
 }
