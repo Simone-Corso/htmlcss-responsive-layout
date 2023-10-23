@@ -181,6 +181,15 @@ margin-left: 1.5rem;
     align-items: center;
 }
 
+.titolo-about{
+    display: flex;
+    justify-content: flex-start;
+    padding: 2rem;
+    font-size: 45px;
+    color: #9792E4;
+}
+
+
 
 .about-left{
     height: 600px;
