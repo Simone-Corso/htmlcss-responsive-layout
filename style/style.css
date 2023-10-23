@@ -59,14 +59,15 @@ img{
     background-size: cover;
 }
 
-.titolo-benifits{
+.titolo-benefits{
+    padding: 2rem;
     display: flex;
     justify-content: center;
-    font-size: x-large;
+    font-size: 35px;
     background-color: #9792E4;
     color: white;
-
 }
+
 
 
 .column-big{
