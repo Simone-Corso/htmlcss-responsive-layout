@@ -19,6 +19,7 @@
     height: 100%;
     border-radius: 2rem;
     border: 1px solid black;
+    background-image: url(../img/testimonial1.jpg);
 }
 
 .container-nav{
