@@ -220,10 +220,15 @@ margin-left: 1.5rem;
     border-radius: 50%;
 }
 
-.tiolo-man{
+.titolo-man{
     padding: 2rem;
     font-size: 30px;
     color: #9792E4;
+}
+
+.button-linkedin{
+    display: flex;
+    justify-content: center;
 }
 
 .container-started{
