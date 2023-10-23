@@ -215,6 +215,11 @@ margin-left: 1.5rem;
     align-items: center;
 }
 
+.image-about{
+    object-fit: cover;
+    border-radius: 50%;
+}
+
 .container-started{
      height: 600px;
      width: 600px;
