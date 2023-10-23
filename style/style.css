@@ -162,6 +162,15 @@ img{
     border-radius: 2rem;
 }
 
+.button-more{
+margin-left: 1.5rem;
+    font-size: 20px;
+    width: 120px;
+    border-radius: 2rem;
+    background-color: #9792E4;
+    color: white;
+}
+
 .About{
     height: 800px;
     background-color: white;
