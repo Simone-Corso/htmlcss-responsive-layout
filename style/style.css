@@ -226,6 +226,14 @@
     margin-bottom: 1rem;
 }
 
+.benefits {
+    height: 2100px;
+    background-color: #9792E4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .container-benefits{
     width: 100%;
     height: 2000px;
