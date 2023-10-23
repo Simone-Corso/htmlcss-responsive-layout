@@ -138,6 +138,11 @@ img{
     flex-wrap: wrap;
 }
 
+.numero-grande{
+    font-size: 70px;
+    padding: 2rem;
+}
+
 .column-benefits{
     height: 50%;
     width: calc(100% / 3);
