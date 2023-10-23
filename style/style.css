@@ -183,4 +183,12 @@
         align-items: center;
     }
 
+    .column-big{
+        border: 1px solid black;
+        height: 2000px;
+        width: 100%;
+
+    }
+}
+
     
