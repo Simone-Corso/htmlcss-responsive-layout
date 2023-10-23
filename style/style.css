@@ -220,6 +220,12 @@ margin-left: 1.5rem;
     border-radius: 50%;
 }
 
+.tiolo-man{
+    padding: 2rem;
+    font-size: 30px;
+    color: #9792E4;
+}
+
 .container-started{
      height: 600px;
      width: 600px;
