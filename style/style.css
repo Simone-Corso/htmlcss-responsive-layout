@@ -189,6 +189,13 @@
         width: 100%;
 
     }
+
+    .column-small{
+        height: 100%;
+        border: 1px solid black;
+        width: 100%;
+        margin-top: 1rem;
+    }
 }
 
     
