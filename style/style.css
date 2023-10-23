@@ -15,7 +15,10 @@
 }
 
 .imag-circle{
-    
+    width: 25%;
+    height: 100%;
+    border-radius: 2rem;
+    border: 1px solid black;
 }
 
 .container-nav{
