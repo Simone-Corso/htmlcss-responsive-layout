@@ -143,6 +143,11 @@ img{
     padding: 2rem;
 }
 
+.small-titolo-benifits{
+    margin-left: 2rem;
+    margin-bottom: 1.5rem;
+}
+
 .column-benefits{
     height: 50%;
     width: calc(100% / 3);
