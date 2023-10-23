@@ -272,9 +272,32 @@
     border: 1px solid black;
     margin-top: 1rem;
 }
+}
 
+@media screen and (max-width: 768px){
 
+    .strategic-planning {
+        height: 1700px;
+        background-color: #9792E4;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        flex-wrap: nowrap;
+    }
 
+    .left-strategic {
+        height: 1000px;
+        width: 100%;
+        border: 1px solid black;
+    }
+
+    .right-appdev {
+        height: 1000px;
+        width: 80%;
+        border: 1px solid black;
+
+    }
 }
 
 
