@@ -266,6 +266,13 @@
     border: 1px solid black;
 }
 
+.about-right {
+    height: 266px;
+    width: 300px;
+    border: 1px solid black;
+    margin-top: 1rem;
+}
+
 
 
 }
