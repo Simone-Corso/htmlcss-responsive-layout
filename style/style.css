@@ -250,6 +250,16 @@
     width: 70%;
 }
 
+.About {
+    height: 900px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    flex-wrap: nowrap;
+}
+
 
 
 }
