@@ -338,6 +338,12 @@
         align-items: center;
         justify-content: center;
     }
+
+    .column-benefits {
+        height: 50%;
+        width: calc(100% / 2);
+        border: 1px solid black;
+    }
 }
 
 
