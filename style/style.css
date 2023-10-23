@@ -196,6 +196,16 @@
         width: 100%;
         margin-top: 1rem;
     }
+
+    .strategic-planning{
+        height: 1130px;
+        background-color: #9792E4;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        flex-wrap: nowrap;
+    }
 }
 
     
