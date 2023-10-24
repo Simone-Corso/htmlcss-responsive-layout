@@ -59,6 +59,12 @@ ul,li{
 }
 
 .image-phone{
+    height: 80%;
+    display: flex;
+    justify-content: flex-end;
+    align-content: space-around;
+    margin-right: 4rem;
+    margin-top: 4rem;
 
 }
 
