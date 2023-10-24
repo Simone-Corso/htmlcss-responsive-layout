@@ -36,7 +36,6 @@ font-family: 'PT Sans', sans-serif;
 }
 
 .menu-button{
-    height: 70px;
 }
 
 ul,li{
@@ -59,8 +58,11 @@ ul,li{
     flex-wrap: wrap;
 }
 
+.image-phone{
+
+}
+
 img{
-    width: 100%;
     height: 50%;
     background-size: cover;
 }
@@ -80,6 +82,9 @@ img{
     width: calc((100% / 3) *2);
     border: 1px solid black;
     background-color: #B5DDFF;
+    height: 299px;
+    display: flex;
+    justify-content: flex-end;
 }
 
 .column-small{
