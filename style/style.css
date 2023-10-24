@@ -86,9 +86,28 @@ img{
     color: #FFFFFF;
 }
 
+.text-testimonial{
+
+    height: 100%;
+    width: 60%;
+    border: 1px solid black;
+}
+
+.paragraffo-testimonial{
+    margin-bottom: 2rem;
+}
+
+
+.titolo-piccolo{
+    padding: 1rem;
+
+}
 .testimonial-titolo{
     padding: 1rem;
+    font-size: 45px;
+    color: #9792E4;
 }
+
 
 
 .column-big{
